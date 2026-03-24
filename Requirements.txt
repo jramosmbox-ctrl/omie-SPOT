@@ -1,4 +1,4 @@
-OMIEData
+omiedata
 openpyxl
 pandas
 streamlit
