@@ -1,0 +1,4 @@
+OMIEData
+openpyxl
+pandas
+streamlit
